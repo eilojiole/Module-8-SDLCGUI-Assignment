@@ -1,7 +1,7 @@
 /*Uchenna Ilojiole
  * CEN 3024 - Software Development 1
  * November 30, 2023
- * MainLibrarySystem.java
+ * Main.java
  * This is our Main System Class. In this class we will be able to define the users options.
  * In This class we will also be able to retrieve our users input as well. This is also the class
  * where we will be able to save and update our library file based on the previous selections made
